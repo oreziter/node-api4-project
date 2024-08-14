@@ -20,6 +20,7 @@ Your assignment page on Canvas should contain instructions for submitting this p
   - Add support for environment variables using an `.env` file and the dotenv library, providing fallbacks in the code
   - Flesh out the API:
 
+
     | Method | URL           | Description                                                                                         |
     | ------ | ------------- | ----------------------------------------------------------------------------------------------      |
     | GET    | /api/users    | Returns an array users.                                                                             |
